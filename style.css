@@ -92,3 +92,18 @@ button {
 .statement{
     margin-top: 100px;
 }
+.cert-background{
+ position:absolute;
+ right: 60px;
+ height: 0px;
+ border-left: 25px solid transparent;
+ border-bottom: 51px solid #1ebeb1; 
+ width: 20px; 
+ padding-right: 158px; 
+}
+.cert{
+    text-align: center;
+    padding-left: 0px;
+    width: 140px;
+
+}
