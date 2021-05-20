@@ -23,7 +23,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 80%;
+    width: 100%;
 }
 /* .clock-call{
     display: inline-block;
@@ -105,5 +105,13 @@ button {
     text-align: center;
     padding-left: 0px;
     width: 140px;
+
+}
+
+.icons i {
+color:#1ebeb1;
+margin-left: 25px;
+border-color:white;
+border-left: white;
 
 }
